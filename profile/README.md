@@ -4,7 +4,7 @@ There’s a reason that some of the world’s highest performing super computers
 
 # Open Source
 
-While the majority of our code is closed source yet, we have and will open source various modules & helper tools. It is also planned to open source past model versions and eventually a non-commerctial community version of the current model.
+While the majority of our code is closed source yet, we open source various modules & helper tools. It is planned to open source past model versions and eventually provide access to a non-commercial community version of the current model. 
 
 # How to get involved?
 
