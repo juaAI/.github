@@ -1,4 +1,4 @@
-Jua mission is to unriddle the Earth's atmosphere.
+# Jua's mission is to unriddle the Earth's atmosphere.
 
 There’s a reason that some of the world’s highest performing super computers are used for weather forecasting. It is a really hard engineering problem to solve. And yet, using our unique insights into meteorology, physics and machine learning, we have found a way to make weather forecasts work. We could not just marginally improve what others had done, in 3 years of research we had to completely re-invent weather forecasting from the ground up.
 
